@@ -14,9 +14,8 @@ Webアプリも作ったりしています。<br>
 <img alt="HTML, CSS, JavaScript, Python" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,python">
 
 ### 制作物
-* **[Pasubu]:** パスワード機能をつけようとしたブックマーク
-レポジトリ](https://github.com/pasububook/Pasubu)
+- [Pasubu](https://github.com/pasububook/Pasubu): パスワード機能をつけようとしたブックマーク
 
 ## SNS
 - GitHub: [Pasubu.book(@pasububook)](https://github.com/pasububook)
-- Youtube: [DIY-Turtle(@diy-turtle)](example.com)
+- Youtube: [DIY-Turtle(@diy-turtle)](https://www.youtube.com/@diy-turtle)
