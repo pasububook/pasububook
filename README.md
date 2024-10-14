@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hello, World!
+高校生です<br>
+Webアプリも作ったりしています。<br>
+人工知能に興味があり、勉強中です。<br>
+チャンネル登録してくれると嬉しいです！<br>
 
-<!--
-**pasububook/pasububook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Activities
+<div align="left"> 
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=pasububook" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasububook" />
+</div>
 
-Here are some ideas to get you started:
+### スキル
+<img alt="HTML, CSS, JavaScript, Python" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,python">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 制作物
+* **[Pasubu]:** パスワード機能をつけようとしたブックマーク
+レポジトリ](https://github.com/pasububook/Pasubu)
+
+## SNS
+- GitHub: [Pasubu.book(@pasububook)](https://github.com/pasububook)
+- Youtube: [DIY-Turtle(@diy-turtle)](example.com)
