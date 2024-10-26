@@ -1,7 +1,7 @@
 # Hello, World!
 高校生です<br>
-Webアプリも作ったりしています。<br>
-人工知能に興味があり、勉強中です。
+Webアプリも作ったりしています<br>
+人工知能に興味があり、勉強中です
 
 ## Activities
 <div align="left"> 
