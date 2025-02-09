@@ -17,4 +17,3 @@ Webアプリも作ったりしています<br>
 
 ## SNS
 - GitHub: [Pasubu.book(@pasububook)](https://github.com/pasububook)
-- Youtube: [DIY-Turtle(@diy-turtle)](https://www.youtube.com/@diy-turtle)
